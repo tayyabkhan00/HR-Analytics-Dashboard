@@ -6,7 +6,7 @@
 This is a strategic HR Analytics Dashboard designed to provide a comprehensive overview of employee attrition (turnover) within an organization. The primary goal is to help HR professionals and management identify the key drivers and patterns behind employee departures. The dashboard consolidates key metrics and breaks down attrition by various critical dimensions such as gender, education, age, job role, salary, and tenure.
 
 #Detailed Analysis of Dashboard Components
-1. Key Performance Indicators (KPIs - Top Section)
+#1. Key Performance Indicators (KPIs - Top Section)
 This section provides a high-level snapshot of the workforce and the attrition problem.
 Overall Employees: 1,470 - The total headcount in the dataset.
 Attrition: 238 - The raw number of employees who have left the company. This is the core issue being analyzed.
